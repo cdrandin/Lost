@@ -1,3 +1,3 @@
-Lost
-======
-Game in development for this years 2014 Global Game Jam(GGJ)
+Lost 
+========
+A game in development for this years 2014 GLobal Game Jam(GGJ)
